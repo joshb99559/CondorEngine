@@ -1,5 +1,5 @@
 #include <Condor.h>
-
+//Sandbox is of type Application
 class Sandbox : public Condor::Application
 {
 public:

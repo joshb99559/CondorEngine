@@ -2,6 +2,7 @@
 #include "Core.h"
 
 namespace Condor {
+	//Define Application class for Condor applications
 	class CONDOR_API Application
 	{
 	public:
